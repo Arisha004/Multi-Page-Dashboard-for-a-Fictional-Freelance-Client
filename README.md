@@ -44,9 +44,6 @@ npm run dev
 - **Lucide React** - Modern icon library
 - **React Router** - Client-side routing
 
-## Project info
-
-**URL**: https://lovable.dev/projects/30ea041e-f942-4244-bb54-1fc90fa5a14f
 
 
 Follow these steps:
